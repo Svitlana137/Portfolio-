@@ -1,0 +1,39 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap"); */
+
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+    color:white;
+}
+header{
+padding-left:100px;   
+background-image: url('bannernew.jpg');
+height: 50vh;
+min-height: 500px;
+}
+.menu a{
+    text-decoration:none;
+}
+.prthome{
+    margin-left: 100px;
+    margin-right: 625px;
+}
+button a{
+    color: red;
+    padding: 20px;
+    font-size: 15px;
+    
+    margin-top:20px;
+    background-color: yellow;
+  } 
+.fullstack{
+    margin-bottom: 50px;
+}
+h1 {
+  padding-top: 50px ;  
+}
+.about{
+    background-color: blue;
+}
